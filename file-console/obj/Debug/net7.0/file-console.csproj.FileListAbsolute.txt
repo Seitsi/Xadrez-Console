@@ -1,0 +1,15 @@
+C:\projetos\fileProjeto\file-console\file-console\bin\Debug\net7.0\file-console.exe
+C:\projetos\fileProjeto\file-console\file-console\bin\Debug\net7.0\file-console.deps.json
+C:\projetos\fileProjeto\file-console\file-console\bin\Debug\net7.0\file-console.runtimeconfig.json
+C:\projetos\fileProjeto\file-console\file-console\bin\Debug\net7.0\file-console.dll
+C:\projetos\fileProjeto\file-console\file-console\bin\Debug\net7.0\file-console.pdb
+C:\projetos\fileProjeto\file-console\file-console\obj\Debug\net7.0\file-console.csproj.AssemblyReference.cache
+C:\projetos\fileProjeto\file-console\file-console\obj\Debug\net7.0\file-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\fileProjeto\file-console\file-console\obj\Debug\net7.0\file-console.AssemblyInfoInputs.cache
+C:\projetos\fileProjeto\file-console\file-console\obj\Debug\net7.0\file-console.AssemblyInfo.cs
+C:\projetos\fileProjeto\file-console\file-console\obj\Debug\net7.0\file-console.csproj.CoreCompileInputs.cache
+C:\projetos\fileProjeto\file-console\file-console\obj\Debug\net7.0\file-console.dll
+C:\projetos\fileProjeto\file-console\file-console\obj\Debug\net7.0\refint\file-console.dll
+C:\projetos\fileProjeto\file-console\file-console\obj\Debug\net7.0\file-console.pdb
+C:\projetos\fileProjeto\file-console\file-console\obj\Debug\net7.0\file-console.genruntimeconfig.cache
+C:\projetos\fileProjeto\file-console\file-console\obj\Debug\net7.0\ref\file-console.dll
